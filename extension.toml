@@ -2,5 +2,7 @@ id = "flow-icons"
 name = "Flow Icons"
 version = "0.0.1"
 schema_version = 1
-
+authors = ["prsweet <pr.sweeeet@gmail.com>"]
+description = "flow style vibrant and distinguishing icons"
+repository = "https://github.com/prsweet/vc-flow-icons-zed"
 icon_themes = ["icon_themes/flow-icons.json"]
