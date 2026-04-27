@@ -4285,6 +4285,7 @@
                 "cshtml": "razor",
                 "vbhtml": "razor",
                 "tsx": "react_ts",
+                "tsrx": "react_ts",
                 "jsx": "react",
                 "readme": "readme",
                 "re": "reason",
